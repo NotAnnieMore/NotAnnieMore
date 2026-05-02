@@ -73,15 +73,9 @@
   <a href="https://www.arduino.cc/"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" /></a>
   <a href="https://powerapps.microsoft.com/"><img src="https://img.shields.io/badge/PowerApps-742774?style=for-the-badge&logo=powerapps&logoColor=white" /></a>
   <a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /></a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NotAnnieMore&show_icons=true&theme=tokyonight&border_color=c75000&title_color=ffb347&icon_color=c75000&hide_border=false" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotAnnieMore&layout=compact&theme=tokyonight&border_color=c75000&title_color=ffb347&hide_border=false" height="160" alt="Top Languages" />
+  <a href="https://www.atlassian.com/software/jira"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" /></a>
+  <a href="https://developer.android.com/studio"><img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" /></a>
+  <a href="https://www.netacad.com/courses/packet-tracer"><img src="https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a>
 </p>
 
 ---
