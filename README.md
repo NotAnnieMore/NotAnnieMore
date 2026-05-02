@@ -1,11 +1,15 @@
-[![header](https://capsule-render.vercel.app/api?type=waving&color=auto&theme=tokyonight&height=200&section=header&text=NotAnnieMore&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Student%20%7C%20Developer%20%7C%20Always%20Learning&descAlignY=55&descAlign=50)](https://github.com/NotAnnieMore)
+[![header](https://capsule-render.vercel.app/api?type=soft&color=0:2d0a4e,50:c75000,100:2d0a4e&height=200&section=header&text=NotAnnieMore&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Student%20%7C%20Developer%20%7C%20Always%20Learning&descAlignY=65&descAlign=50&descColor=ffb347)](https://github.com/NotAnnieMore)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NotAnnieMore&style=for-the-badge&color=c75000&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
 ---
 
 ### 🙋 About Me
 
 🎓 Master's student in Applied Informatics & Computer Engineering  
-🧠 Currently working on my thesis in AI and Data Science  
+🧠 Currently working on my thesis in AI and Data Science — [ALSThesis](https://github.com/NotAnnieMore/ALSThesis)  
 💻 Interested in both frontend and backend — I like building things end to end  
 🌱 Always open to learning something new and pushing to get results  
 📍 Portugal
@@ -61,11 +65,21 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NotAnnieMore&show_icons=true&theme=tokyonight&border_color=c75000&title_color=ffb347&icon_color=c75000&hide_border=false" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotAnnieMore&layout=compact&theme=tokyonight&border_color=c75000&title_color=ffb347&hide_border=false" height="160" alt="Top Languages" />
+</p>
+
+---
+
 ### 🔗 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivocamacho99/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/189007917075267584)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NotAnnieMore)
 
 ---
 
-[![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&theme=tokyonight&height=100&section=footer)](https://github.com/NotAnnieMore)
+[![footer](https://capsule-render.vercel.app/api?type=soft&color=0:2d0a4e,50:c75000,100:2d0a4e&height=80&section=footer)](https://github.com/NotAnnieMore)
