@@ -8,10 +8,10 @@
 
 ### 🙋 About Me
 
-🎓 Master's student in Applied Informatics & Computer Engineering  
-🧠 Currently working on my thesis in AI and Data Science — [ALSThesis](https://github.com/NotAnnieMore/ALSThesis)  
-💻 Interested in both frontend and backend — I like building things end to end  
-🌱 Always open to learning something new and pushing to get results  
+🎓 Background in Computer Science, currently pursuing studies in Applied Computer Science and Computer Engineering  
+🧠 Currently working on my thesis in AI and Data Science —> [ALSThesis](https://github.com/NotAnnieMore/ALSThesis)  
+💻 Interested in frontend and backend development, especially building solutions from idea to implementation  
+🌱 Open to feedback, always learning, and committed to delivering results that meet expectations  
 📍 Portugal
 
 ---
