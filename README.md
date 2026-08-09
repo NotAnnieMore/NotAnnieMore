@@ -8,12 +8,12 @@
 
 ### 🙋 About Me
 
-🎓 Background in Informatics and Computer Engineering, currently completing a Master's in Applied Computer Science
-🧠 Master's thesis focused on Explainable and Reproducible Machine Learning for ALS Prognosis → [ALSThesis](https://github.com/NotAnnieMore/ALSThesis)
-💻 Interested in full-stack development, IT solutions and turning ideas into functional applications
-🚀 Recently built and deployed a full-stack [Job Application Tracker](https://github.com/NotAnnieMore/job-application-tracker) using Next.js, TypeScript, Supabase and PostgreSQL
-🌱 Always learning and looking to expand my technical knowledge through practical projects
-📍 Portugal
+- 🎓 Background in Informatics and Computer Engineering, currently completing a Master's in Applied Computer Science
+- 🧠 Master's thesis focused on Explainable and Reproducible Machine Learning for ALS Prognosis → [ALSThesis](https://github.com/NotAnnieMore/ALSThesis)
+- 💻 Interested in full-stack development, IT solutions and turning ideas into functional applications
+- 🚀 Recently built and deployed a full-stack [Job Application Tracker](https://github.com/NotAnnieMore/job-application-tracker) using Next.js, TypeScript, Supabase and PostgreSQL
+- 🌱 Always learning and looking to expand my technical knowledge through practical projects
+- 📍 Portugal
 
 ---
 
