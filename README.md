@@ -1,4 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=waving&color=0:2d0a4e,100:c75000&height=200&section=header&text=NotAnnieMore&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20%7C%20Developer%20%7C%20Always%20Learning&descAlignY=55&descAlign=50&descColor=ffb347)](https://github.com/NotAnnieMore)
+[![header](https://capsule-render.vercel.app/api?type=waving\&color=0:2d0a4e,100\:c75000\&height=200\&section=header\&text=NotAnnieMore\&fontSize=80\&fontColor=ffffff\&animation=fadeIn\&fontAlignY=38\&desc=Student%20%7C%20Developer%20%7C%20Always%20Learning\&descAlignY=55\&descAlign=50\&descColor=ffb347)](https://github.com/NotAnnieMore)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NotAnnieMore&style=for-the-badge&color=c75000&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -8,17 +8,50 @@
 
 ### 🙋 About Me
 
-🎓 Background in Computer Science, currently pursuing studies in Applied Computer Science and Computer Engineering  
-🧠 Currently working on my thesis in AI and Data Science —> [ALSThesis](https://github.com/NotAnnieMore/ALSThesis)  
-💻 Interested in frontend and backend development, especially building solutions from idea to implementation  
-🌱 Open to feedback, always learning, and committed to delivering results that meet expectations  
+🎓 Background in Informatics and Computer Engineering, currently completing a Master's in Applied Computer Science
+🧠 Master's thesis focused on Explainable and Reproducible Machine Learning for ALS Prognosis → [ALSThesis](https://github.com/NotAnnieMore/ALSThesis)
+💻 Interested in full-stack development, IT solutions and turning ideas into functional applications
+🚀 Recently built and deployed a full-stack [Job Application Tracker](https://github.com/NotAnnieMore/job-application-tracker) using Next.js, TypeScript, Supabase and PostgreSQL
+🌱 Always learning and looking to expand my technical knowledge through practical projects
 📍 Portugal
+
+---
+
+### 🚀 Featured Projects
+
+#### 💼 Job Application Tracker
+
+Full-stack web application designed to centralize job applications, companies, recruiters, interviews and follow-up actions.
+
+**Built with:** Next.js · TypeScript · React · Tailwind CSS · Supabase · PostgreSQL · Vercel
+
+<p>
+  <a href="https://github.com/NotAnnieMore/job-application-tracker">
+    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://job-application-tracker-cyan-tau.vercel.app">
+    <img src="https://img.shields.io/badge/Live%20App-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+#### 🧠 ALS Thesis
+
+Machine Learning research project focused on explainable and reproducible models for ALS prognosis, including functional progression classification and survival prediction.
+
+**Built with:** Python · Machine Learning · Data Science
+
+<p>
+  <a href="https://github.com/NotAnnieMore/ALSThesis">
+    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ### 🛠️ Languages
 
 <p align="center">
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-254f73?style=for-the-badge&logo=typescript&logoColor=3178C6" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-B59A30?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-53388b?style=for-the-badge&logo=python&logoColor=3776AB" /></a>
   <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-919cc7?style=for-the-badge&logo=php&logoColor=777BB4" /></a>
@@ -32,7 +65,9 @@
 ### ⚙️ Frameworks & Libraries
 
 <p align="center">
+  <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></a>
   <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind%20CSS-123d4a?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" /></a>
   <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-214021?style=for-the-badge&logo=node.js&logoColor=339933" /></a>
   <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-2b2b2b?style=for-the-badge&logo=express&logoColor=white" /></a>
   <a href="https://laravel.com/"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /></a>
@@ -44,7 +79,10 @@
 ### 🗄️ Databases & Cloud
 
 <p align="center">
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-294d70?style=for-the-badge&logo=postgresql&logoColor=4169E1" /></a>
+  <a href="https://supabase.com/"><img src="https://img.shields.io/badge/Supabase-1c4538?style=for-the-badge&logo=supabase&logoColor=3FCF8E" /></a>
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-415666?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+  <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /></a>
   <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" /></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
@@ -89,4 +127,4 @@
 
 ---
 
-[![footer](https://capsule-render.vercel.app/api?type=waving&color=0:c75000,100:2d0a4e&height=100&section=footer)](https://github.com/NotAnnieMore)
+[![footer](https://capsule-render.vercel.app/api?type=waving\&color=0\:c75000,100:2d0a4e\&height=100\&section=footer)](https://github.com/NotAnnieMore)
